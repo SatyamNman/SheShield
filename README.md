@@ -2,9 +2,7 @@
 
 A comprehensive women's safety application built with Flutter that provides real-time protection, emergency alerts, and community support.
 
-<!-- ![SheShield App Banner](./lib/assets/logo.png) Add your app banner image -->
-
-## Features
+## SheShield App Banner
 
 <div align="center">
   <img src="./lib/assets/logo.png" width="300" alt="App Screenshot">
@@ -32,39 +30,34 @@ A comprehensive women's safety application built with Flutter that provides real
    ```bash
    git clone https://github.com/SatyamNman/SheShield.git
 
-Install dependencies:
-2. flutter pub get
+2. Install dependencies:
+    ```bash
+    flutter pub get
 
-Run the app:
-3. flutter run
+3. Run the app:
+    ```bash
+    flutter run
 
-Technical Architecture 🏗️
-Frontend: Flutter (iOS & Android)
+### Technical Architecture 🏗️
+**Frontend** - Flutter (iOS & Android)
 
-Backend: Firebase (Authentication, Database, Cloud Functions)
+**Backend** - Firebase (Authentication, Database, Cloud Functions)
 
-APIs: Google Maps, Twilio (SMS), ML Kit (AI features)
+**APIs** - Google Maps, Twilio (SMS), ML Kit (AI features)
 
-How It Works ⚙️
-User Registration: Secure sign-up with phone verification
+## How It Works ⚙️
+**User Registration** - Secure sign-up with phone verification
 
-Trust Circle: Add emergency contacts
+**Trust Circle** - Add emergency contacts
 
-Safety Features:
+**Safety Features** 
+-Shake phone to trigger SOS
+-Automatic police notification
+-Live location tracking
+-Community Support: Connect with nearby verified users
 
-Shake phone to trigger SOS
-
-Automatic police notification
-
-Live location tracking
-
-Community Support: Connect with nearby verified users
-
-Future Roadmap 🗺️
-Integration with local law enforcement APIs
-
-Augmented Reality for self-defense training
-
-Wearable device compatibility
-
-Multi-language support
+### Future Roadmap 🗺️
+-Integration with local law enforcement APIs
+-Augmented Reality for self-defense training
+-Wearable device compatibility
+-Multi-language support
