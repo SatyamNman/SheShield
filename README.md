@@ -51,13 +51,13 @@ A comprehensive women's safety application built with Flutter that provides real
 **Trust Circle** - Add emergency contacts
 
 **Safety Features** 
--Shake phone to trigger SOS
--Automatic police notification
--Live location tracking
--Community Support: Connect with nearby verified users
+- Shake phone to trigger SOS
+- Automatic police notification
+- Live location tracking
+- Community Support: Connect with nearby verified users
 
 ### Future Roadmap 🗺️
--Integration with local law enforcement APIs
--Augmented Reality for self-defense training
--Wearable device compatibility
--Multi-language support
+- Integration with local law enforcement APIs
+- Augmented Reality for self-defense training
+- Wearable device compatibility
+- Multi-language support
