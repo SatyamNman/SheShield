@@ -1,16 +1,70 @@
-# test
+# SheShield 🛡️
 
-A new Flutter project.
+A comprehensive women's safety application built with Flutter that provides real-time protection, emergency alerts, and community support.
 
-## Getting Started
+<!-- ![SheShield App Banner](./lib/assets/logo.png) Add your app banner image -->
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img src="./lib/assets/logo.png" width="300" alt="App Screenshot">
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features ✨
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Emergency SOS** with one-tap alert system
+- **Live Location Sharing** with trusted contacts
+- **Safe Route Navigation** with danger zone alerts
+- **Community Network** for immediate assistance
+- **Discreet Alert Mode** with fake call generation
+- **Self-Defense Tutorials** with step-by-step guides
+- **Real-time Threat Detection** using AI
+
+## Getting Started 🚀
+
+### Prerequisites
+- Flutter SDK (version 3.0 or higher)
+- Dart (version 2.17 or higher)
+- Android Studio/Xcode for emulator testing
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SatyamNman/SheShield.git
+
+Install dependencies:
+2. flutter pub get
+
+Run the app:
+3. flutter run
+
+Technical Architecture 🏗️
+Frontend: Flutter (iOS & Android)
+
+Backend: Firebase (Authentication, Database, Cloud Functions)
+
+APIs: Google Maps, Twilio (SMS), ML Kit (AI features)
+
+How It Works ⚙️
+User Registration: Secure sign-up with phone verification
+
+Trust Circle: Add emergency contacts
+
+Safety Features:
+
+Shake phone to trigger SOS
+
+Automatic police notification
+
+Live location tracking
+
+Community Support: Connect with nearby verified users
+
+Future Roadmap 🗺️
+Integration with local law enforcement APIs
+
+Augmented Reality for self-defense training
+
+Wearable device compatibility
+
+Multi-language support
